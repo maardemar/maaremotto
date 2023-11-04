@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.title {color: black;
+font-size: 50px; font-weight: bold}
+
+.des {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-size:15px; text-align: center;}
+
+.texto {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-size: 12px;}
+
+.list-menu {color: black}
+
+*{text-align: center}
+
+a:link {color: black}
+
+a:visited {color: black}
+
+a:hover {color: black}
+
+a:active {color: black}
+
+#title {font-weight: bold}
